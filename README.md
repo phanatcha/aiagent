@@ -1,6 +1,6 @@
 # AI Agent
 
-Ai Agent is a command-line assistant for automated code debugging and lightweight refactoring. It iteratively plans and executes actions—scanning files, reading/writing source code, and running Python—to work toward a user-defined task. The agent uses Google’s Gemini API for reasoning and planning.
+AI Agent is a command-line assistant for automated code debugging and lightweight refactoring. It iteratively plans and executes actions—scanning files, reading/writing source code, and running Python—to work toward a user-defined task. The agent uses Google’s Gemini API for reasoning and planning.
 
 ---
 
